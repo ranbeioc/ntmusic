@@ -10,7 +10,7 @@
   "rewrites": [
     {
       "source": "/netease/:match*",
-      "destination": "https://your-netease-api.example.com/:match*"
+      "destination": "https://mapi.xhalo.top/:match*"
     },
     {
       "source": "/r3play/:match*",
